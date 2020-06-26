@@ -1,0 +1,10 @@
+{
+  "name": "purescript-simple-json-example",
+  "set": "psc-0.13.8",
+  "source": "https://github.com/purescript/package-sets.git",
+  "depends": [
+    "console",
+    "prelude",
+    "simple-json"
+  ]
+}

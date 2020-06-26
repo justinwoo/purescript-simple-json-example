@@ -1,0 +1,11 @@
+{
+  "name": "purescript-simple-json-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "justinwoo <moomoowoo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "psc-package": "^4.0.1",
+    "pulp": "^15.0.0"
+  }
+}
